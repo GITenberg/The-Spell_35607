@@ -1,0 +1,40 @@
+_repo: The-Spell_35607
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hammond, Gertrude Demain
+    aliases:
+    - Hammond, G. Demain
+    - Hammond, G. M. D.
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '34646'
+    url: http://www.gutenberg.org/2009/agents/34646
+covers:
+- cover_type: archival
+  image_path: 35607-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Orcutt, William Dana
+    alias: Orcutt, Wm. Dana (William Dana)
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '6050'
+    url: http://www.gutenberg.org/2009/agents/6050
+description: ''
+gutenberg_issued: '2011-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Americans -- Italy -- Fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Honeymoons -- Fiction'
+- !lcc 'PS'
+title: The Spell
+url: http://www.gutenberg.org/ebooks/35607
